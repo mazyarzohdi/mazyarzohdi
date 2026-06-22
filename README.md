@@ -6,7 +6,7 @@
 My GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazyarzohdi&show_icons=true&theme=tokyonight" width="50%"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazyarzohdi&layout=compact&theme=tokyonight" width="50%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazyarzohdi&theme=tokyonight" width="50%"/>
   
   
 </p>
