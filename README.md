@@ -1,13 +1,3 @@
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="gif" width="100%"/>
-## Hi there 👋
-
-
-My GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mazyarzohdi&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazyarzohdi&theme=tokyonight" />
-</p>
 <p align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%">
 </p>
