@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" style="margin:auto"/>
 ## Hi there 👋
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mazyarzohdi&show_icons=true&theme=tokyonight" /> </p>
 <!--
 **mazyarzohdi/mazyarzohdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
