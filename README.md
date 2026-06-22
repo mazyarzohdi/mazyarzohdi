@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazyarzohdi&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazyarzohdi&theme=tokyonight"width="50%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazyarzohdi&show_icons=true&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazyarzohdi&theme=tokyonight"width="47%" />
   
 </p>
 
