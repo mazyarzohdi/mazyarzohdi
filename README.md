@@ -10,11 +10,12 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazyarzohdi&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazyarzohdi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazyarzohdi&theme=tokyonight" />
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazyarzohdi&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazyarzohdi&theme=tokyonight" />
 </p>
 <!--
 **mazyarzohdi/mazyarzohdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
